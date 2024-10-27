@@ -1,6 +1,6 @@
 A **simple command-line calculator** built in Go! This project was one of my first experiences with the Go programming language, and it served as a hands-on introduction to the basics of Go syntax, logic, and structuring code. 🎯
 
-## 🚀 Features
+## Features
 
 -   Supports basic arithmetic operations:
     -   **Addition (+)**
